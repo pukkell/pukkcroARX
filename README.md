@@ -1,2 +1,0 @@
-# pukkcroARX
-ARX macro
