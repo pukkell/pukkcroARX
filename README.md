@@ -8,9 +8,9 @@
 1. Scale - 100%
 2. Resolution - 1920x1080
 - ## Roblox settings:
-Fullscreen: off
-1. Graphis Mode: Manual
-2. Graphics Quality: 1 bar(lowest)
+1. Fullscreen: off
+2. Graphis Mode: Manual
+3. Graphics Quality: 1 bar(lowest)
 - ## ARX settings:
 1. Abilities VFX - safer to have off
 2. Hide Cosmetic - safer to have on
