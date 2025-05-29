@@ -1,7 +1,6 @@
 # pukkcroARX
 ARX macro
-
-The requirements for using the macro:
+- The requirements for using the macro:
 
 Download AutoHotKeyV2(AHKV2) - https://www.autohotkey.com/download/ahk-v2.exe
  Be on the ARX game page with the "servers" button visible
